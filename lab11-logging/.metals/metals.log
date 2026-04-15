@@ -1,0 +1,446 @@
+2026.04.15 12:12:20 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\user\Documents\Java  file\lab11\lab11-logging' for client Visual Studio Code 1.115.0.
+2026.04.15 12:12:20 INFO  Memory monitor started
+2026.04.15 12:12:23 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.15 12:12:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:12:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.15 12:12:26 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java
+Apr 15, 2026 12:12:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.15 12:12:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:12:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:12:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.04.15 12:12:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:12:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x81) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                            ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x81) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                                   ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                                       ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                                         ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                                                              ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("Дан�? үү�?л�?�?. Эхний үлд�?гд�?л: {}", initialBalance);
+                                                                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                            ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                      ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                        ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                              ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("deposit() метод �?х�?лл�?�?. Х�?мж�?�?: {}", amount);
+                                                                      ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:18: error: unmappable character (0x81) for encoding windows-1252
+            logger.warn("Буруу оролт: Сөрөг дүн {} оруул�?ан байна!", amount);
+                                                                                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:21: error: unmappable character (0x8D) for encoding windows-1252
+        logger.debug("Хадгаламж хийх�?�?�? өмнөх үлд�?гд�?л: {}", balance);
+                                                  ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:21: error: unmappable character (0x8D) for encoding windows-1252
+        logger.debug("Хадгаламж хийх�?�?�? өмнөх үлд�?гд�?л: {}", balance);
+                                                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:21: error: unmappable character (0x81) for encoding windows-1252
+        logger.debug("Хадгаламж хийх�?�?�? өмнөх үлд�?гд�?л: {}", balance);
+                                                      ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:21: error: unmappable character (0x8D) for encoding windows-1252
+        logger.debug("Хадгаламж хийх�?�?�? өмнөх үлд�?гд�?л: {}", balance);
+                                                                          ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:21: error: unmappable character (0x8D) for encoding windows-1252
+        logger.debug("Хадгаламж хийх�?�?�? өмнөх үлд�?гд�?л: {}", balance);
+                                                                                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                        ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                            ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                                      ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                                                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                                                         ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг н�?м�?гдл�?�?. Шин�? үлд�?гд�?л: {}", amount, balance);
+                                                                               ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("withdraw() метод �?х�?лл�?�?.");
+                                             ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("withdraw() метод �?х�?лл�?�?.");
+                                                 ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("withdraw() метод �?х�?лл�?�?.");
+                                                       ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        logger.trace("withdraw() метод �?х�?лл�?�?.");
+                                                         ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x90) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                           ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                             ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                   ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                              ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                                                                  ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x8D) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                                                                        ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:29: error: unmappable character (0x90) for encoding windows-1252
+            logger.error("�?лдаа: Үлд�?гд�?л хүр�?лц�?хгүй байна! (Үлд�?гд�?л: {}, �?вах дүн: {})", balance, amount);
+                                                                                                                  ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:33: error: unmappable character (0x81) for encoding windows-1252
+        logger.info("{} төгрөг авлаа. Үлд�?�?н: {}", amount, balance);
+                                                        ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:33: error: unmappable character (0x8D) for encoding windows-1252
+        logger.info("{} төгрөг авлаа. Үлд�?�?н: {}", amount, balance);
+                                                          ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java:41: error: unmappable character (0x81) for encoding windows-1252
+        logger.fatal("Си�?темийн критик алдааг дуурайлгав!"); // FATAL
+                           ^
+2026.04.15 12:12:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:12:29 WARN  Running javac-semanticdb failed for file:///C:/Users/user/Documents/Java%20%20file/lab11/lab11-logging/src/main/java/mn/must/edu/bankAccount.java. Output:
+
+2026.04.15 12:13:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:13:41 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:13:41 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:14:50 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:14:50 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:16:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.15 12:17:39 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:17:39 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java
+2026.04.15 12:17:39 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:17:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.04.15 12:17:40 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:17:39 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:17:47 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:17:52 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:17:52 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:17:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2026.04.15 12:18:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:18:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:18:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:20:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:20:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:20:35 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:23:55 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:23:55 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java
+2026.04.15 12:23:55 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:23:55 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:23:55 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:24:18 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java
+2026.04.15 12:24:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\bankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:24:20 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:24:20 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:24:20 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:24:29 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:24:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2026.04.15 12:26:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:27 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:13: error: unmappable character (0x90) for encoding windows-1252
+        // �?лдааг олохын тулд оролтын утгыг логлоно
+            ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:28: error: unmappable character (0x90) for encoding windows-1252
+            logger.error("�?лдаа гарлаа: ", e);
+                           ^
+2026.04.15 12:26:27 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:27 WARN  Running javac-semanticdb failed for file:///C:/Users/user/Documents/Java%20%20file/lab11/lab11-logging/src/main/java/mn/must/edu/Customer.java. Output:
+
+2026.04.15 12:26:27 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:28 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:26:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:29 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:49 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:26:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:27:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:27:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:27:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.15 12:27:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:27:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:27:29 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:27:56 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:28:01 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:33:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:33:05 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 12:33:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:33:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 102
+2026.04.15 12:33:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:33:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:33:19 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:33:48 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+Apr 15, 2026 12:34:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+2026.04.15 12:34:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+2026.04.15 12:34:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+Apr 15, 2026 12:34:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+2026.04.15 12:34:04 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+2026.04.15 12:34:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:06 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 12:34:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:34:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 137
+2026.04.15 12:34:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:07 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:34:07 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:34:07 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:34:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 144
+2026.04.15 12:34:07 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:34:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:34:07 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:34:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:18 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 12:34:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:34:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 153
+2026.04.15 12:34:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:34:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:35:10 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:20 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:21 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:36:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:22 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:31 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:36:31 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:12 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:14 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:14 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:15 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:15 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:15 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:26 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:37:26 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        // Email-�?�?�? домайн н�?рийг �?алгаж авах
+                  ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        // Email-�?�?�? домайн н�?рийг �?алгаж авах
+                    ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:23: error: unmappable character (0x81) for encoding windows-1252
+        // Email-�?�?�? домайн н�?рийг �?алгаж авах
+                      ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:23: error: unmappable character (0x8D) for encoding windows-1252
+        // Email-�?�?�? домайн н�?рийг �?алгаж авах
+                                        ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:23: error: unmappable character (0x81) for encoding windows-1252
+        // Email-�?�?�? домайн н�?рийг �?алгаж авах
+                                                   ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Т�?�?т хийх зорилгоор null утга дамжуулж байна
+              ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:28: error: unmappable character (0x81) for encoding windows-1252
+        // Т�?�?т хийх зорилгоор null утга дамжуулж байна
+                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:34: error: unmappable character (0x90) for encoding windows-1252
+            // �?лдааг ERROR түвшинд логлох
+                ^
+C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java:35: error: unmappable character (0x90) for encoding windows-1252
+            logger.error("�?лдаа гарлаа: ", e);
+                           ^
+2026.04.15 12:37:26 WARN  Running javac-semanticdb failed for file:///C:/Users/user/Documents/Java%20%20file/lab11/lab11-logging/src/main/java/mn/must/edu/Customer.java. Output:
+
+2026.04.15 12:37:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:45 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:50 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:37:52 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:38:54 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:41:22 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:41:23 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:41:22 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:41:22 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 212
+2026.04.15 12:41:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:41:43 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:08 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:42:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:42:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 224
+2026.04.15 12:42:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:08 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:09 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:42:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:44:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:44:13 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 12:44:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:44:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 234
+2026.04.15 12:44:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:44:14 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:44:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:25 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:29 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:29 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:30 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:32 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:46 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:45:48 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:12 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:18 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:21 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:24 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:31 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:36 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:51 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:47:52 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:48:03 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:48:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:48:12 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:48:35 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:48:51 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:50:00 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:00 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:50:00 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:50:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 390
+2026.04.15 12:50:00 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:00 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+2026.04.15 12:50:05 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java
+2026.04.15 12:50:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+2026.04.15 12:50:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\App.java. Using fallback presentation compiler.
+2026.04.15 12:50:10 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:50:10 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 12:50:10 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:50:10 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 12:50:10 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+Apr 15, 2026 12:50:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 405
+2026.04.15 12:50:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:13 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 12:50:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+Apr 15, 2026 12:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 413
+2026.04.15 12:50:13 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:15 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:15 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:16 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:16 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 12:50:34 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\test\java\mn\must\edu\AppTest.java. Using fallback presentation compiler.
+Apr 15, 2026 12:50:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 423
+2026.04.15 12:50:34 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\test\java\mn\must\edu\AppTest.java. Using fallback presentation compiler.
+2026.04.15 12:50:34 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\test\java\mn\must\edu\AppTest.java. Using fallback presentation compiler.
+2026.04.15 15:15:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:15:57 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 15:15:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:15:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:15:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:16:01 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:01 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 15:16:01 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:01 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:01 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:16:06 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 15:16:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:16:06 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:16:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:23 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 15:16:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:23 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:31 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:38 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:16:41 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:17:37 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:21:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:21:57 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java
+2026.04.15 15:21:57 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\BankAccount.java. Using fallback presentation compiler.
+2026.04.15 15:22:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:22:28 WARN  no build target for: C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java
+2026.04.15 15:22:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:22:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:22:28 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:23:32 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:24:05 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\main\java\mn\must\edu\Customer.java. Using fallback presentation compiler.
+2026.04.15 15:24:07 INFO  no build target found for C:\Users\user\Documents\Java  file\lab11\lab11-logging\src\test\java\mn\must\edu\AppTest.java. Using fallback presentation compiler.
+2026.04.15 16:30:01 INFO  Shutting down server
+2026.04.15 16:30:01 INFO  Memory monitor stopped
+2026.04.15 16:30:01 INFO  shutting down Metals
+2026.04.15 16:30:01 INFO  Exiting server
